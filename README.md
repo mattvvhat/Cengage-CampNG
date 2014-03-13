@@ -1,4 +1,3 @@
-Cengaeg-CampNG
-==============
+# Cengaeg-CampNG
 
-Notes and examples in AngularJS @ Cengage
+Working examples and notes for CampNG @ Cengage 03-14-2014.
